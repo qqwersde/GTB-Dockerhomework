@@ -10,6 +10,6 @@ public class RestTemplateService {
     RestTemplate restTemplate;
 
     public String someRestCall() {
-        return restTemplate.getForObject("http://bobapp/hello", String.class);
+        return restTemplate.getForObject("http://bobapp:8081/hello", String.class);
     }
 }
