@@ -8,6 +8,6 @@ services:
     depends_on:
       - bobapp
   bobapp:
-    image: spring-docker-bob:1.0
+    build: ../bob
     ports:
       - '8081:8081'
