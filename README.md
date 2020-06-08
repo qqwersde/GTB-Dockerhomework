@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GTB-Dockerhomework
 =======
 # Docker and Docker Compose Basics Homework
@@ -21,4 +20,3 @@ Homework for Docker and Docker Compose Basics
 - 可以用RestTemplate实现接口调用
 - 接口调用时的host是Docker Compose中定义的服务名
 
->>>>>>> 2cafbe1... init git respo
